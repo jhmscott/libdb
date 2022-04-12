@@ -1,7 +1,11 @@
 {
   "name": "libdb",
   "version": "0.1.0",
-  "description": "",
+  "description": "Database wrapper library for node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhmscott/libdb.git"
+  },
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
